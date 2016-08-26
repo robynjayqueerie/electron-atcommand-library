@@ -1,8 +1,3 @@
-PLEASE NOTE:
-The Particle SIM card does not allow SMS messaging, these functions will only work on an appropriate
-SIM card which does have that capability.
-
-
 The public functions available in the electron-atcommand-library
 
 Set or clear debug mode
