@@ -2,6 +2,9 @@ PLEASE NOTE:
 The Particle SIM card does not allow SMS messaging, these functions will only work on an appropriate
 SIM card which does have that capability.
 
+The credentials for a non Particle SIM need to be set at the start of the program, see
+STARTUP(cellular_credentials_set("mdata.net.au", "", "", NULL)); in the example
+
 
 The public functions available in the electron-atcommand-library
 
